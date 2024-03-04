@@ -2,32 +2,19 @@
  
  **Hello**  👋
  **Welcome to my profile**
+
+ ## 🚀 About Me
  
-- I am **Reddy** currently lives in **Ontatio, Canada**.
+- I am **Reddy** based in **Ontatio, Canada**.
 - 🌱 I’m currently learning **Web development in Humber**.
 - 🔭 Interested in working **Tech**.
 - 💬 Ask me about **work I am into**.
 
-- # Hello, I'm [Your Name] 👋
-
-I'm a [Your Role/Title] based in [Your Location]. Currently, I'm a student learning frontend development in Canada.
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning [Technologies/Frameworks you are learning].
-- 👯 I’m looking to collaborate on [Open Source Projects/Interest Areas].
-- 💬 Ask me about [Any Specific Topic or Technology].
-- 📫 How to reach me: [Your Email Address or Social Media Profiles].
 
 ## 🔧 Technologies & Tools
 
-- HTML5, CSS3, JavaScript
-- [Any Other Technologies or Tools You Are Familiar With]
+- HTML, CSS, JavaScript, C#
 
-## 🌱 Current Projects
-
-- [Project Name 1]: Brief description.
-- [Project Name 2]: Brief description.
 
 ## 📈 GitHub Stats
 
