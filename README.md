@@ -13,7 +13,7 @@
 
 ## 🔧 Technologies & Tools
 
-- HTML, CSS, JavaScript, C#
+- HTML, CSS, JavaScript, C#, SQL
 
 
 ## 📈 GitHub Stats
