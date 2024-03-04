@@ -22,9 +22,7 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
-- Portfolio: [Link to Your Portfolio or Blog]
+- LinkedIn: (https://www.linkedin.com/in/reddy-nagendra-1250b32ab/)
 
 Feel free to explore my repositories and connect with me! 😄
 
